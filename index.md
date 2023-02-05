@@ -7,3 +7,10 @@
 ```
 console.println("Wow, Java");
 ```
+
+Steps Completed
+- [x] Step 1
+- [x] Step 2
+- [x] Step 3
+- [x] Step 4
+- [ ] Step 5
